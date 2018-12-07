@@ -3,11 +3,11 @@
 //Move Cursor to the top of the box for another suprise
 int value = 0;
 PImage img;
-PImage sieupreme;
+PImage sieupremeeeee;
 PImage white square;
 PImage red;
-PImage white;
-PImage Red Square;
+PImage white square;
+PImage red;
 
 void setup() {
   size(600, 600);
