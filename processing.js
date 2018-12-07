@@ -1,3 +1,4 @@
+/* @pjs preload="flag.png"; */
 //Hold B key for a suprise
 //Move Cursor to the top of the box for another suprise
 
