@@ -4,7 +4,12 @@
 
 int value = 0;
 PImage img;
-
+PImage sieupremeeee;
+PImage white square;
+PImage red;
+PImage white square;
+PImage red;
+PImage thank you NEXT;
 
 void setup() {
   size(600, 600);
