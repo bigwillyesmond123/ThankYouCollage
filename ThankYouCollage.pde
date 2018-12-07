@@ -4,10 +4,11 @@
 int value = 0;
 PImage img;
 PImage sieupremeeeee;
-PImage white square;
+PImage whitesquare;
 PImage red;
-PImage white square;
+PImage whitesquare;
 PImage red;
+PImage thankyouNEXT;
 
 void setup() {
   size(600, 600);
@@ -19,18 +20,18 @@ void setup() {
   
  img = loadImage("sieupremeeeee.png");
  image(img, 0, 0, width/1, height/1);
-  img = loadImage("white square.png");
+  img = loadImage("whitesquare.png");
   image(img, 100, 100, width/1.5, height/1.5);
   img = loadImage("red.jpg");
   image(img, 123, 123, width/1.7, height/1.7);
-  img = loadImage("white square.png");
+  img = loadImage("whitesquare.png");
   image(img, 150, 150, width/2, height/2);
   img = loadImage("red.jpg");
   image(img, 180, 180, width/2.5, height/2.5);
   //Load Image
   
   if(keyPressed) {
-  img = loadImage("thank you NEXT.jpg");
+  img = loadImage("thankyouNEXT.jpg");
   }
   image(img, 200, 200, width/3, height/3);
   if (keyPressed) {
