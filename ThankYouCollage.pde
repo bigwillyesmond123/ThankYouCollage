@@ -3,7 +3,7 @@
 //Move Cursor to the top of the box for another suprise
 int value = 0;
 PImage img;
-PImage sieupremeeeee;
+PImage ("sieupremeeeee");
 PImage whitesquare;
 PImage red;
 PImage whitesquare;
